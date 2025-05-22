@@ -10,5 +10,6 @@ To transform the youth sports industry by bringing blockchain-powered coaching, 
 This folder contains all major progress logs for AthleteFi. Each document tracks the evolution of a key area of the AthleteFi ecosystem.
 
 📁 Head to `progress/` to explore what we’re building and how to get involved.
+
 🔁 Updated weekly by project contributors.
 
