@@ -5,11 +5,10 @@ AthleteFi, a modern Web2-based marketplace enhanced by Web3 features. Built to a
 ## 👟 Our Mission
 To transform the youth sports industry by bringing blockchain-powered coaching, achievement tracking, and community governance to life.
 
-📁 Head to `progress-tracker/` to explore what we’re building and how to get involved.
-
 # Progress Tracker
 
 This folder contains all major progress logs for AthleteFi. Each document tracks the evolution of a key area of the AthleteFi ecosystem.
 
+📁 Head to `progress-tracker/` to explore what we’re building and how to get involved.
 🔁 Updated weekly by project contributors.
 
