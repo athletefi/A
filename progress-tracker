@@ -1,1 +1,47 @@
+# 🗂 AthleteFi Progress Tracker
+
+Track weekly contributor updates. Use GitHub emoji reactions 👍 ❤️ 🚀 🧠 to rate the update.
+
+---
+
+## 🧑‍💻 Rikako Hatoya – Week of May 20–24
+
+**Area:** Smart Contracts | Validator Logic  
+**Updates:**
+- ✅ Deployed ALFI staking contract to testnet  
+- 🛠 Working on validator reward distribution module  
+- 📤 PR #12 submitted: coach verification logic  
+
+**How would you rate this update?**  
+> 👍 Great Progress 🚀 On Fire 🧠 Smart Approach 💬 Needs Review
+
+---
+
+## 🎨 Theo Perisic – Week of May 20–24
+
+**Area:** Frontend UI | Athlete Ledger  
+**Updates:**
+- 🎨 Updated UI for NFT minting  
+- 🔧 Fixed wallet connect issue in onboarding  
+- 🧪 Added logic for Train2Earn badges  
+
+**How would you rate this update?**  
+> ❤️ Loved It 🔥 Very Engaging 💬 Needs More Detail 👀 Interesting Idea
+
+---
+
+## ➕ Submit Your Update
+
+Want to add your progress card?
+
+1. Fork this repo
+2. Duplicate a card section above
+3. Change the name, week, and content
+4. Submit a pull request
+5. Let the community vote using emoji reactions 🎯
+
+---
+
+### ⭐ Weekly Highlights
+Check back weekly to see top-rated updates and featured contributors!
 
